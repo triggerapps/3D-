@@ -1,0 +1,33 @@
+Try to have a prompt below each section to
+describe the setting type....
+
+-----------Body-----------
+
+Select Model Body Type
+(prompt: Your age is how mature you are, please pick appropriately.)
+-AgeRange: Adult, Youth, Children 
+
+Select Gender: Male, Female,
+ (Not Available- prompt: we may not have a body design 
+for your gender, but we are glad to have some diversity.
+Click Continue; you might like some of the presets we've proved!
+)
+
+-Presets Categories (Prompt: Here, feel free to adjust your body to best fits)
+ Head, Arms, Hips, Chest, Legs
+
+  -Scalable
+  -Have body part type for : skinny, medium, heavy, fat
+
+Melanin (Prompt: Your skin color is defined by this pigment, racial discrimination is not allowed here. Feel free
+to adjust to best fit, also my apologies if I dont have the best colors for your race.)
+  -Color selection 
+
+-----------Last Part Scaling--------------
+-Make a small scalable range for people to be a little different
+-Make it so its not so much that a child is as tall as a youth.
+
+
+(Prompt: You can adjust your height here)
+-from 5 - 6 ft for adult and youth
+-from 3-4 ft for children
